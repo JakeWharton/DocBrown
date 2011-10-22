@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="hello">Hello, World!\n\nThis sample may not look like much but behind the scenes it just created an instance of a class that is only available on Android 4.0!</string>
+    <string name="app_name">DocBrown Sample</string>
+</resources>
